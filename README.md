@@ -1,1 +1,1 @@
-# 101-quarkus
+# 101 Quarkus
